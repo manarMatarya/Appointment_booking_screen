@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Activity3</string>
+    <string-array name="address">
+        <item>غزة</item>
+        <item>خانيونس</item>
+        <item>الوسطى</item>
+        <item>رفح</item>
+    </string-array>
+
+    <string-array name="hospital">
+        <item>الاسنان</item>
+        <item>الانف والاذن </item>
+        <item>عظام</item>
+        <item>باطنة</item>
+    </string-array>
+</resources>
